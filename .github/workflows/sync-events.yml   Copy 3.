@@ -1,1 +1,44 @@
+name: Sync portfolio events from Google Sheets
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17,47 * * * *' # every 30 minutes, UTC; may be delayed
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-hitesh-events
+  cancel-in-progress: false
+
+jobs:
+  sync-events:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Read spreadsheet and update events.json
+        env:
+          HITESH_SHEET_ID: ${{ vars.HITESH_SHEET_ID }}
+          HITESH_START_YEAR: '2024'
+          HITESH_MIN_ROWS: '100'
+        run: python scripts/sync_events.py
+      - name: Commit only if events changed
+        run: |
+          if git diff --quiet -- events.json; then
+            echo 'Nothing changed'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add events.json
+          git commit -m 'Sync event data from Google Sheets'
+          git push
 
