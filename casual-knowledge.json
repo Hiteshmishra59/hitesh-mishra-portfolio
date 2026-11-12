@@ -1,0 +1,2277 @@
+{
+  "version": "1.0",
+  "languages": [
+    "English",
+    "Hinglish (Roman Hindi)"
+  ],
+  "topics": [
+    {
+      "id": "hello",
+      "category": "Greetings",
+      "english": [
+        "hello",
+        "hi",
+        "hey",
+        "hello there",
+        "hey there",
+        "hi there",
+        "hii",
+        "hiii",
+        "heyy",
+        "hey buddy",
+        "hello assistant",
+        "hi assistant",
+        "hi bot",
+        "hello bot"
+      ],
+      "hinglish": [
+        "namaste",
+        "namaskar",
+        "hello bhai",
+        "hi bhai",
+        "hey bhai",
+        "hi yaar",
+        "hello ji",
+        "namaste ji",
+        "arey hello",
+        "hii bhai",
+        "kaise ho bhai"
+      ],
+      "answer_en": "Hello! I'm Hitesh's portfolio assistant. What would you like to know about his work?",
+      "answer_hinglish": "Hello ji! Main Hitesh ka portfolio assistant hoon. Unke work ke baare mein kya jaanna chahenge?"
+    },
+    {
+      "id": "good_morning",
+      "category": "Greetings",
+      "english": [
+        "good morning",
+        "morning",
+        "good morning assistant",
+        "morning there",
+        "a very good morning",
+        "gm",
+        "gm buddy",
+        "good morning to you"
+      ],
+      "hinglish": [
+        "suprabhat",
+        "good morning bhai",
+        "gm bhai",
+        "subah ki namaste",
+        "subah bakhair",
+        "morning bhai",
+        "good morning ji"
+      ],
+      "answer_en": "Good morning! Hope your day is going well. How can I help?",
+      "answer_hinglish": "Good morning ji! Aapka din achha rahe. Kya jaanna chahenge?"
+    },
+    {
+      "id": "good_afternoon",
+      "category": "Greetings",
+      "english": [
+        "good afternoon",
+        "afternoon",
+        "good afternoon assistant",
+        "pleasant afternoon",
+        "good afternoon there"
+      ],
+      "hinglish": [
+        "dopahar ki namaste",
+        "good afternoon bhai",
+        "afternoon bhai",
+        "good afternoon ji"
+      ],
+      "answer_en": "Good afternoon! How can I assist?",
+      "answer_hinglish": "Good afternoon ji! Bataiye, main kaise help kar sakta hoon?"
+    },
+    {
+      "id": "good_evening",
+      "category": "Greetings",
+      "english": [
+        "good evening",
+        "evening",
+        "good evening there",
+        "good evening assistant",
+        "lovely evening"
+      ],
+      "hinglish": [
+        "shubh sandhya",
+        "good evening bhai",
+        "evening bhai",
+        "good evening ji",
+        "shaam ki namaste"
+      ],
+      "answer_en": "Good evening! What would you like to know?",
+      "answer_hinglish": "Good evening ji! Kya jaanna chahenge?"
+    },
+    {
+      "id": "good_night",
+      "category": "Greetings",
+      "english": [
+        "good night",
+        "night night",
+        "gn",
+        "sleep well",
+        "have a good night",
+        "goodnight",
+        "gn assistant"
+      ],
+      "hinglish": [
+        "good night bhai",
+        "shubh ratri",
+        "gn bhai",
+        "chalo good night",
+        "good night ji",
+        "raat ho gayi bye"
+      ],
+      "answer_en": "Good night! Take care and see you again.",
+      "answer_hinglish": "Good night ji! Khayal rakhna, phir baat karenge."
+    },
+    {
+      "id": "welcome_back",
+      "category": "Greetings",
+      "english": [
+        "i am back",
+        "back again",
+        "hello again",
+        "i came back",
+        "i am here again",
+        "here again"
+      ],
+      "hinglish": [
+        "wapas aa gaya",
+        "main wapas aa gaya",
+        "fir aa gaya",
+        "phir se aa gaya",
+        "wapas aaya hoon",
+        "main phir aa gaya"
+      ],
+      "answer_en": "Welcome back! What can I help you with now?",
+      "answer_hinglish": "Welcome back! Ab kya jaanna chahenge?"
+    },
+    {
+      "id": "first_visit",
+      "category": "Greetings",
+      "english": [
+        "first time here",
+        "this is my first visit",
+        "i am visiting for the first time",
+        "new visitor here",
+        "i just found this website"
+      ],
+      "hinglish": [
+        "pehli baar aaya hoon",
+        "main pehli baar aaya hu",
+        "website par pehli baar aaya",
+        "naya visitor hoon"
+      ],
+      "answer_en": "Welcome! You can ask about Hitesh's events, skills, experience, or contact options.",
+      "answer_hinglish": "Welcome ji! Aap Hitesh ke events, skills, experience ya contact ke baare mein pooch sakte hain."
+    },
+    {
+      "id": "thanks",
+      "category": "Thanks",
+      "english": [
+        "thanks",
+        "thank you",
+        "thank u",
+        "thankyou",
+        "thx",
+        "ty",
+        "thanks a lot",
+        "thank you so much",
+        "many thanks",
+        "thanks very much",
+        "much appreciated",
+        "thank you kindly",
+        "appreciate it",
+        "i appreciate it",
+        "thanks for your help",
+        "thanks for explaining",
+        "thanks for sharing",
+        "thanks for the information"
+      ],
+      "hinglish": [
+        "shukriya",
+        "bahut shukriya",
+        "dhanyawad",
+        "dhanyavaad",
+        "thanks bhai",
+        "thank you bhai",
+        "shukriya bhai",
+        "bohot shukriya",
+        "bahut bahut shukriya",
+        "help ke liye thanks",
+        "thanks yaar",
+        "shukriya ji",
+        "thanks dost",
+        "thank you ji"
+      ],
+      "answer_en": "You're welcome! Happy to help. Feel free to ask another question.",
+      "answer_hinglish": "Koi baat nahi! Khushi hui help karke. Aur kuch poochna ho toh bataiye."
+    },
+    {
+      "id": "thanks_again",
+      "category": "Thanks",
+      "english": [
+        "thanks again",
+        "thank you again",
+        "one more thanks",
+        "thanks once more",
+        "appreciate your time"
+      ],
+      "hinglish": [
+        "phir se thanks",
+        "dobara shukriya",
+        "ek baar aur thanks",
+        "fir se thank you"
+      ],
+      "answer_en": "Anytime! You're always welcome to ask.",
+      "answer_hinglish": "Bilkul! Kabhi bhi koi aur sawaal ho toh pooch sakte hain."
+    },
+    {
+      "id": "you_are_welcome",
+      "category": "Thanks",
+      "english": [
+        "you are welcome",
+        "youre welcome",
+        "no worries",
+        "not a problem",
+        "no problem at all",
+        "my pleasure"
+      ],
+      "hinglish": [
+        "koi baat nahi",
+        "arey koi baat nahi",
+        "kuch nahi",
+        "chalta hai",
+        "koi scene nahi",
+        "arey theek hai"
+      ],
+      "answer_en": "Thanks! Let me know if you'd like anything else.",
+      "answer_hinglish": "Shukriya! Aur kuch chahiye ho toh bataiye."
+    },
+    {
+      "id": "okay",
+      "category": "Acknowledgements",
+      "english": [
+        "ok",
+        "okay",
+        "okey",
+        "okayy",
+        "okays",
+        "ok cool",
+        "okay cool",
+        "alright",
+        "all right",
+        "fine",
+        "sure",
+        "alright then",
+        "fair enough",
+        "sounds good",
+        "roger that",
+        "copy that",
+        "noted"
+      ],
+      "hinglish": [
+        "thik hai",
+        "theek hai",
+        "thik h",
+        "theek h",
+        "thik hai bhai",
+        "theek hai bhai",
+        "chal thik hai",
+        "chal theek hai",
+        "chalo thik hai",
+        "chalo theek hai",
+        "acha thik hai",
+        "achha theek hai",
+        "haan theek hai",
+        "haa thik hai",
+        "ok bhai",
+        "okay bhai",
+        "thik hai yaar",
+        "theek hai ji",
+        "samjha"
+      ],
+      "answer_en": "Sounds good! Let me know if there's anything else you'd like to ask.",
+      "answer_hinglish": "Bilkul! Aur kuch jaanna ho toh pooch lena."
+    },
+    {
+      "id": "got_it",
+      "category": "Acknowledgements",
+      "english": [
+        "got it",
+        "i got it",
+        "understood",
+        "i understand",
+        "understood now",
+        "makes sense",
+        "that makes sense",
+        "gotcha",
+        "i see",
+        "now i understand",
+        "clear now",
+        "crystal clear"
+      ],
+      "hinglish": [
+        "samajh gaya",
+        "samajh gya",
+        "samajh gayi",
+        "samaj aa gaya",
+        "samjh gaya",
+        "samajh aa gya",
+        "haan samajh gaya",
+        "ab samajh gaya",
+        "samajh mein aa gaya",
+        "clear ho gaya",
+        "ab clear hai",
+        "samajh liya"
+      ],
+      "answer_en": "Perfect! I'm here if anything else comes up.",
+      "answer_hinglish": "Perfect! Aur koi doubt ho toh pooch sakte hain."
+    },
+    {
+      "id": "yes",
+      "category": "Acknowledgements",
+      "english": [
+        "yes",
+        "yep",
+        "yup",
+        "yeah",
+        "yes sure",
+        "yes please",
+        "absolutely",
+        "definitely",
+        "certainly",
+        "indeed",
+        "affirmative",
+        "yes okay"
+      ],
+      "hinglish": [
+        "haan",
+        "ha",
+        "haa",
+        "han",
+        "haan ji",
+        "haa ji",
+        "hanji",
+        "ji haan",
+        "bilkul",
+        "bilkul sahi",
+        "haan bhai",
+        "ha bhai",
+        "sahi hai",
+        "sahi baat"
+      ],
+      "answer_en": "Great! What would you like to explore next?",
+      "answer_hinglish": "Badhiya! Ab aap kya jaanna chahenge?"
+    },
+    {
+      "id": "no",
+      "category": "Acknowledgements",
+      "english": [
+        "no",
+        "nope",
+        "nah",
+        "not really",
+        "no thanks",
+        "no thank you",
+        "not now",
+        "nothing else",
+        "nothing for now"
+      ],
+      "hinglish": [
+        "nahi",
+        "nahin",
+        "nai",
+        "nhi",
+        "nahi bhai",
+        "nahi chahiye",
+        "abhi nahi",
+        "filhal nahi",
+        "bas abhi ke liye",
+        "nahi ji"
+      ],
+      "answer_en": "No problem. Reach out whenever you have a question.",
+      "answer_hinglish": "Koi baat nahi. Jab bhi koi sawaal ho, pooch lena."
+    },
+    {
+      "id": "maybe",
+      "category": "Acknowledgements",
+      "english": [
+        "maybe",
+        "perhaps",
+        "possibly",
+        "not sure yet",
+        "let me think",
+        "i will think about it",
+        "might be"
+      ],
+      "hinglish": [
+        "shayad",
+        "dekhte hain",
+        "soch ke bataunga",
+        "sochta hoon",
+        "pata nahi abhi",
+        "abhi sure nahi"
+      ],
+      "answer_en": "Of course. Take your time—I'm here whenever you need information.",
+      "answer_hinglish": "Bilkul, aaram se sochiye. Jab information chahiye ho, main yahin hoon."
+    },
+    {
+      "id": "one_moment",
+      "category": "Acknowledgements",
+      "english": [
+        "one moment",
+        "just a minute",
+        "wait a sec",
+        "wait a minute",
+        "hold on",
+        "one second",
+        "brb",
+        "be right back"
+      ],
+      "hinglish": [
+        "ek minute",
+        "ek min",
+        "ruko zara",
+        "ruko bhai",
+        "thoda ruko",
+        "zara rukna",
+        "abhi aaya",
+        "ek second",
+        "bas ek min"
+      ],
+      "answer_en": "Sure. You can continue whenever you're ready.",
+      "answer_hinglish": "Bilkul, jab ready ho tab continue kar lena."
+    },
+    {
+      "id": "done",
+      "category": "Acknowledgements",
+      "english": [
+        "done",
+        "all done",
+        "finished",
+        "completed",
+        "sorted",
+        "i am done",
+        "that is done"
+      ],
+      "hinglish": [
+        "ho gaya",
+        "hogaya",
+        "ho gya",
+        "kaam ho gaya",
+        "done bhai",
+        "ho gaya bhai",
+        "sab ho gaya",
+        "complete ho gaya"
+      ],
+      "answer_en": "Great! Anything else I can help you with?",
+      "answer_hinglish": "Badhiya! Aur kisi cheez mein help chahiye?"
+    },
+    {
+      "id": "fine",
+      "category": "Acknowledgements",
+      "english": [
+        "fine thanks",
+        "all good",
+        "everything is fine",
+        "doing fine",
+        "all set",
+        "good to go"
+      ],
+      "hinglish": [
+        "sab badhiya",
+        "sab thik",
+        "sab theek hai",
+        "sab mast",
+        "sab set hai",
+        "all set bhai",
+        "badhiya chal raha hai"
+      ],
+      "answer_en": "Good to hear! What would you like to ask next?",
+      "answer_hinglish": "Achha laga sunkar! Ab kya jaanna chahenge?"
+    },
+    {
+      "id": "how_are_you",
+      "category": "Small talk",
+      "english": [
+        "how are you",
+        "how are you doing",
+        "how r u",
+        "how r you",
+        "how is it going",
+        "how is everything",
+        "how have you been",
+        "what is up",
+        "whats up",
+        "wats up",
+        "sup"
+      ],
+      "hinglish": [
+        "kaise ho",
+        "kaisa hai",
+        "kaisi ho",
+        "kya haal hai",
+        "kya haal chaal",
+        "kya haal chal",
+        "kya scene hai",
+        "kya chal raha hai",
+        "aur bhai kaise ho",
+        "sab theek"
+      ],
+      "answer_en": "I'm doing well, thanks for asking! I'm here to help with questions about Hitesh's work.",
+      "answer_hinglish": "Main badhiya hoon, shukriya! Hitesh ke work ke baare mein kya jaanna hai?"
+    },
+    {
+      "id": "what_are_you_doing",
+      "category": "Small talk",
+      "english": [
+        "what are you doing",
+        "what are you up to",
+        "what do you do here",
+        "what is happening here",
+        "what are you working on"
+      ],
+      "hinglish": [
+        "kya kar rahe ho",
+        "kya kr rhe ho",
+        "kya kar raha hai",
+        "kya karta hai yahan",
+        "kya chal raha idhar"
+      ],
+      "answer_en": "I'm here to help visitors explore Hitesh's portfolio, events, and professional experience.",
+      "answer_hinglish": "Main yahan visitors ko Hitesh ke events aur professional experience ke baare mein batata hoon."
+    },
+    {
+      "id": "how_is_day",
+      "category": "Small talk",
+      "english": [
+        "how is your day",
+        "how has your day been",
+        "having a good day",
+        "how was your day"
+      ],
+      "hinglish": [
+        "aaj ka din kaisa hai",
+        "din kaisa ja raha hai",
+        "kaisa gaya din",
+        "aaj sab kaisa hai"
+      ],
+      "answer_en": "Thanks for asking! I'm ready to help whenever you have a question.",
+      "answer_hinglish": "Poochhne ke liye shukriya! Aap kuch bhi professional profile se related pooch sakte hain."
+    },
+    {
+      "id": "good_day",
+      "category": "Small talk",
+      "english": [
+        "have a nice day",
+        "have a great day",
+        "enjoy your day",
+        "have a wonderful day",
+        "have a lovely day"
+      ],
+      "hinglish": [
+        "achha din ho",
+        "aapka din achha jaye",
+        "mast din ho",
+        "din achha guzre"
+      ],
+      "answer_en": "Thank you! Wishing you a wonderful day too.",
+      "answer_hinglish": "Shukriya ji! Aapka din bhi bahut achha guzre."
+    },
+    {
+      "id": "weekend",
+      "category": "Small talk",
+      "english": [
+        "happy weekend",
+        "enjoy your weekend",
+        "have a great weekend",
+        "have a nice weekend"
+      ],
+      "hinglish": [
+        "weekend enjoy karo",
+        "happy weekend bhai",
+        "mast weekend ho"
+      ],
+      "answer_en": "Thank you! Hope you enjoy your weekend too.",
+      "answer_hinglish": "Shukriya! Aap bhi weekend enjoy kijiye."
+    },
+    {
+      "id": "festival_wishes",
+      "category": "Small talk",
+      "english": [
+        "happy diwali",
+        "happy holi",
+        "merry christmas",
+        "happy new year",
+        "happy eid",
+        "eid mubarak",
+        "happy navratri",
+        "happy dussehra",
+        "happy independence day"
+      ],
+      "hinglish": [
+        "diwali mubarak",
+        "diwali ki shubhkamnaye",
+        "holi mubarak",
+        "naya saal mubarak",
+        "naye saal ki badhai",
+        "eid ki mubarakbad",
+        "tyohar ki badhai"
+      ],
+      "answer_en": "Thank you for the wishes! Wishing you happiness and a wonderful celebration too.",
+      "answer_hinglish": "Shukriya ji! Aapko bhi bahut saari shubhkamnayein."
+    },
+    {
+      "id": "birthday_wishes",
+      "category": "Small talk",
+      "english": [
+        "happy birthday",
+        "many happy returns",
+        "birthday wishes",
+        "happy bday",
+        "hbd"
+      ],
+      "hinglish": [
+        "janamdin mubarak",
+        "janamdin ki badhai",
+        "happy birthday bhai",
+        "birthday mubarak"
+      ],
+      "answer_en": "That's thoughtful of you! For personal wishes to Hitesh, you can contact him directly on WhatsApp.",
+      "answer_hinglish": "Bahut achhi baat hai! Hitesh ko personal wishes dene ke liye WhatsApp par connect kar sakte hain."
+    },
+    {
+      "id": "congrats",
+      "category": "Small talk",
+      "english": [
+        "congratulations",
+        "congrats",
+        "well done",
+        "many congratulations",
+        "congratulations to you"
+      ],
+      "hinglish": [
+        "badhai ho",
+        "bahut badhai",
+        "congrats bhai",
+        "mubarak ho",
+        "shabash"
+      ],
+      "answer_en": "Thank you for the kind words!",
+      "answer_hinglish": "Bahut shukriya ji! Aapki wishes ki kadar hai."
+    },
+    {
+      "id": "blessings",
+      "category": "Small talk",
+      "english": [
+        "god bless",
+        "bless you",
+        "stay blessed",
+        "best wishes",
+        "all the best",
+        "good luck"
+      ],
+      "hinglish": [
+        "khush raho",
+        "dua hai",
+        "rab rakha",
+        "bhagwan bhala kare",
+        "all the best bhai",
+        "best of luck bhai"
+      ],
+      "answer_en": "Thank you for your kind wishes. Wishing you the best too!",
+      "answer_hinglish": "Dil se shukriya! Aapko bhi all the best."
+    },
+    {
+      "id": "weather_general",
+      "category": "Small talk",
+      "english": [
+        "nice weather",
+        "lovely weather",
+        "beautiful day today",
+        "good weather today"
+      ],
+      "hinglish": [
+        "aaj mausam achha hai",
+        "mausam mast hai",
+        "badhiya mausam hai"
+      ],
+      "answer_en": "Nice! If you'd like to know about Hitesh's events or work, I'm here to help.",
+      "answer_hinglish": "Badhiya! Hitesh ke events ya work ke baare mein kuch poochna ho toh bataiye."
+    },
+    {
+      "id": "nice",
+      "category": "Reactions",
+      "english": [
+        "nice",
+        "very nice",
+        "nice one",
+        "nicely done",
+        "good one",
+        "cool",
+        "cool stuff",
+        "neat",
+        "lovely",
+        "nice work",
+        "looks good"
+      ],
+      "hinglish": [
+        "mast",
+        "mast hai",
+        "badhiya",
+        "badhiya hai",
+        "sahi hai boss",
+        "ek number",
+        "jhakaas",
+        "bahut achha",
+        "kya baat hai",
+        "mast bhai"
+      ],
+      "answer_en": "Glad you liked it! Anything else you'd like to know?",
+      "answer_hinglish": "Achha laga ki aapko pasand aaya! Aur kuch poochna hai?"
+    },
+    {
+      "id": "awesome",
+      "category": "Reactions",
+      "english": [
+        "awesome",
+        "amazing",
+        "excellent",
+        "fantastic",
+        "brilliant",
+        "superb",
+        "outstanding",
+        "impressive",
+        "wonderful",
+        "incredible",
+        "perfect",
+        "so good",
+        "very good"
+      ],
+      "hinglish": [
+        "zabardast",
+        "zabardast bhai",
+        "kamaal hai",
+        "kamal hai",
+        "bahut mast",
+        "jordaar",
+        "ekdum mast",
+        "solid hai",
+        "bahut badhiya",
+        "perfect bhai"
+      ],
+      "answer_en": "Thanks! Happy that this was useful.",
+      "answer_hinglish": "Shukriya! Achha laga ki ye useful raha."
+    },
+    {
+      "id": "interesting",
+      "category": "Reactions",
+      "english": [
+        "interesting",
+        "very interesting",
+        "quite interesting",
+        "that is interesting",
+        "fascinating",
+        "good to know"
+      ],
+      "hinglish": [
+        "interesting hai",
+        "kaafi interesting",
+        "achha laga jaankar",
+        "ye interesting hai",
+        "kamaal ki baat"
+      ],
+      "answer_en": "Glad you found it interesting. I can share more about Hitesh's professional projects.",
+      "answer_hinglish": "Achha laga! Hitesh ke professional projects ke baare mein aur pooch sakte hain."
+    },
+    {
+      "id": "surprised",
+      "category": "Reactions",
+      "english": [
+        "wow",
+        "whoa",
+        "oh wow",
+        "really wow",
+        "that is surprising",
+        "unbelievable",
+        "no way"
+      ],
+      "hinglish": [
+        "arey wah",
+        "waah",
+        "wah bhai",
+        "sach mein",
+        "arey kamaal",
+        "kya baat hai bhai",
+        "arey baap re"
+      ],
+      "answer_en": "Glad that caught your interest! Want to explore a particular event or project?",
+      "answer_hinglish": "Achha laga! Kisi specific event ya project ke baare mein jaanna hai?"
+    },
+    {
+      "id": "lol",
+      "category": "Reactions",
+      "english": [
+        "lol",
+        "haha",
+        "hahaha",
+        "hehe",
+        "lmao",
+        "rofl",
+        "that is funny",
+        "funny"
+      ],
+      "hinglish": [
+        "hahaha bhai",
+        "haha bhai",
+        "lol bhai",
+        "hehe bhai",
+        "has diya",
+        "maza aa gaya",
+        "hasi aa gayi"
+      ],
+      "answer_en": "Haha! Glad I could bring a smile. 😄",
+      "answer_hinglish": "Haha! Achha laga. 😄 Aur kuch poochna hai?"
+    },
+    {
+      "id": "sad",
+      "category": "Reactions",
+      "english": [
+        "i am sad",
+        "feeling sad",
+        "bad day",
+        "i feel down",
+        "not feeling great"
+      ],
+      "hinglish": [
+        "mood kharab hai",
+        "udaas hoon",
+        "mann nahi hai",
+        "aaj din kharab hai",
+        "dukhi hoon"
+      ],
+      "answer_en": "I'm sorry to hear that. I hope things get a little easier for you. If you'd like to explore Hitesh's work, I'm here.",
+      "answer_hinglish": "Sunke bura laga. Umeed hai jaldi behtar feel karenge. Jab chahein, yahan baat kar sakte hain."
+    },
+    {
+      "id": "frustrated",
+      "category": "Reactions",
+      "english": [
+        "this is frustrating",
+        "i am annoyed",
+        "not helpful",
+        "this is not useful",
+        "that did not help",
+        "bad answer"
+      ],
+      "hinglish": [
+        "ye helpful nahi",
+        "bekaar jawab",
+        "samajh nahi aaya",
+        "kaam ka nahi",
+        "galat jawab diya",
+        "ye kya answer hai"
+      ],
+      "answer_en": "Sorry the answer wasn't useful. Please try a more specific question; if I still can't verify it, I can direct you to Hitesh on WhatsApp.",
+      "answer_hinglish": "Sorry ji, jawab useful nahi tha. Thoda specific poochiye; verified answer na ho toh Hitesh se WhatsApp par connect kar sakte hain."
+    },
+    {
+      "id": "wrong_answer",
+      "category": "Reactions",
+      "english": [
+        "you are wrong",
+        "this is wrong",
+        "incorrect answer",
+        "that is incorrect",
+        "wrong information",
+        "not accurate"
+      ],
+      "hinglish": [
+        "galat hai",
+        "ye galat hai",
+        "wrong hai bhai",
+        "sahi nahi hai",
+        "information galat hai",
+        "answer galat hai"
+      ],
+      "answer_en": "Thanks for pointing that out. I may have matched the wrong topic. Please rephrase your question or contact Hitesh to confirm the details.",
+      "answer_hinglish": "Batane ke liye shukriya. Shayad galat topic match hua. Question dobara poochiye ya Hitesh se details confirm kijiye."
+    },
+    {
+      "id": "repeat",
+      "category": "Reactions",
+      "english": [
+        "repeat that",
+        "say that again",
+        "can you repeat",
+        "please repeat",
+        "one more time"
+      ],
+      "hinglish": [
+        "dobara batao",
+        "fir se batao",
+        "phir se bolo",
+        "ek baar aur batao",
+        "repeat kar do",
+        "dubara samjhao"
+      ],
+      "answer_en": "Sure—please send the question again, and I'll give you the matching answer.",
+      "answer_hinglish": "Bilkul—question ek baar phir bhej dijiye, main answer de dunga."
+    },
+    {
+      "id": "shorter",
+      "category": "Reactions",
+      "english": [
+        "make it short",
+        "short answer please",
+        "briefly please",
+        "keep it short",
+        "in short"
+      ],
+      "hinglish": [
+        "short mein batao",
+        "chhota answer do",
+        "short me bata",
+        "jaldi batao",
+        "kam shabdo mein"
+      ],
+      "answer_en": "Sure. Ask a specific question and I'll aim to keep the answer concise.",
+      "answer_hinglish": "Bilkul. Specific question poochiye, main short answer dene ki koshish karunga."
+    },
+    {
+      "id": "more_details",
+      "category": "Reactions",
+      "english": [
+        "tell me more",
+        "more details please",
+        "can you elaborate",
+        "explain more",
+        "give more details",
+        "more information please"
+      ],
+      "hinglish": [
+        "aur batao",
+        "thoda detail mein batao",
+        "detail me batao",
+        "aur details do",
+        "aur samjhao",
+        "poora batao"
+      ],
+      "answer_en": "Of course. Which event, role, or skill would you like more detail about?",
+      "answer_hinglish": "Zaroor! Kis event, role ya skill ke baare mein detail chahiye?"
+    },
+    {
+      "id": "confused",
+      "category": "Reactions",
+      "english": [
+        "i am confused",
+        "i dont understand",
+        "i do not understand",
+        "confusing",
+        "did not understand",
+        "not clear"
+      ],
+      "hinglish": [
+        "samajh nahi aa raha",
+        "samajh nahi aaya bhai",
+        "clear nahi hai",
+        "confuse ho gaya",
+        "thoda confusion hai"
+      ],
+      "answer_en": "No worries. Tell me which part is unclear, and I'll try to explain it simply.",
+      "answer_hinglish": "Koi baat nahi. Kaunsa part clear nahi hai bataiye, simple tarike se samjhaunga."
+    },
+    {
+      "id": "apology",
+      "category": "Reactions",
+      "english": [
+        "sorry",
+        "my bad",
+        "apologies",
+        "sorry about that",
+        "pardon me",
+        "excuse me"
+      ],
+      "hinglish": [
+        "sorry bhai",
+        "maaf karo",
+        "maaf karna",
+        "galti ho gayi",
+        "meri galti",
+        "sorry yaar",
+        "maafi"
+      ],
+      "answer_en": "No problem at all! How can I help?",
+      "answer_hinglish": "Koi baat nahi ji! Bataiye kya help chahiye?"
+    },
+    {
+      "id": "dont_worry",
+      "category": "Reactions",
+      "english": [
+        "dont worry",
+        "no need to worry",
+        "its okay",
+        "all is well",
+        "never mind",
+        "forget it"
+      ],
+      "hinglish": [
+        "tension mat lo",
+        "koi tension nahi",
+        "chhodo",
+        "rehne do",
+        "jaane do",
+        "koi dikkat nahi"
+      ],
+      "answer_en": "Thanks for understanding. Feel free to ask whenever you need help.",
+      "answer_hinglish": "Shukriya! Jab bhi help chahiye ho pooch lena."
+    },
+    {
+      "id": "disagree",
+      "category": "Reactions",
+      "english": [
+        "i disagree",
+        "not convinced",
+        "i dont agree",
+        "that does not sound right",
+        "i doubt it"
+      ],
+      "hinglish": [
+        "main agree nahi karta",
+        "nahi lagta",
+        "aisa nahi hai",
+        "main nahi maanta",
+        "pakka nahi lag raha"
+      ],
+      "answer_en": "That's fair. I only use available portfolio details, so please confirm anything important directly with Hitesh.",
+      "answer_hinglish": "Bilkul, aapka point valid hai. Important details Hitesh se directly confirm karna best rahega."
+    },
+    {
+      "id": "bye",
+      "category": "Goodbyes",
+      "english": [
+        "bye",
+        "goodbye",
+        "bye bye",
+        "byebye",
+        "see you",
+        "see ya",
+        "see you later",
+        "farewell",
+        "take care",
+        "ttyl",
+        "talk to you later",
+        "catch you later",
+        "until next time",
+        "i am leaving"
+      ],
+      "hinglish": [
+        "chalo bye",
+        "bye bhai",
+        "bye yaar",
+        "chalta hoon",
+        "chalta hu",
+        "milte hain",
+        "phir milenge",
+        "fir milte hai",
+        "chal nikalta hu",
+        "alvida",
+        "bye ji",
+        "baad mein milte hain",
+        "ab chalta hu"
+      ],
+      "answer_en": "Goodbye! Thanks for visiting Hitesh's portfolio. Have a great day!",
+      "answer_hinglish": "Chaliye, phir milte hain! Hitesh ki website visit karne ke liye shukriya."
+    },
+    {
+      "id": "talk_later",
+      "category": "Goodbyes",
+      "english": [
+        "talk later",
+        "talk soon",
+        "we will talk later",
+        "lets talk later",
+        "i will come back",
+        "i will return later"
+      ],
+      "hinglish": [
+        "baad mein baat karte hain",
+        "kal baat karte hain",
+        "phir baat karenge",
+        "fir aata hoon",
+        "baad me aata hu",
+        "kal milte hain"
+      ],
+      "answer_en": "Of course! Come back anytime.",
+      "answer_hinglish": "Bilkul! Jab chahein wapas aa sakte hain."
+    },
+    {
+      "id": "enough",
+      "category": "Goodbyes",
+      "english": [
+        "that is all",
+        "thats all",
+        "thats it",
+        "nothing more",
+        "i am good for now",
+        "all questions answered"
+      ],
+      "hinglish": [
+        "bas itna hi",
+        "bas ho gaya",
+        "aur kuch nahi",
+        "itna kaafi hai",
+        "aaj ke liye bas",
+        "bas bhai"
+      ],
+      "answer_en": "Glad I could help! Thanks for stopping by.",
+      "answer_hinglish": "Achha laga help karke! Website visit karne ke liye shukriya."
+    },
+    {
+      "id": "see_tomorrow",
+      "category": "Goodbyes",
+      "english": [
+        "see you tomorrow",
+        "catch you tomorrow",
+        "talk tomorrow",
+        "until tomorrow"
+      ],
+      "hinglish": [
+        "kal aata hu",
+        "kal aunga"
+      ],
+      "answer_en": "See you tomorrow! Have a good one.",
+      "answer_hinglish": "Kal milte hain! Apna khayal rakhiye."
+    },
+    {
+      "id": "bot_identity",
+      "category": "Bot basics",
+      "english": [
+        "who are you",
+        "what are you",
+        "are you a bot",
+        "are you ai",
+        "are you artificial intelligence",
+        "are you a real person",
+        "are you human",
+        "what is your name",
+        "who am i chatting with",
+        "introduce yourself assistant"
+      ],
+      "hinglish": [
+        "tum kaun ho",
+        "tu kaun hai",
+        "aap kaun ho",
+        "bot ho kya",
+        "ai ho kya",
+        "insaan ho kya",
+        "tumhara naam kya hai",
+        "kisse baat ho rahi hai",
+        "apna intro do"
+      ],
+      "answer_en": "I'm Hitesh's automated portfolio assistant—not Hitesh himself. I help visitors learn about his professional experience and events.",
+      "answer_hinglish": "Main Hitesh ka automated portfolio assistant hoon, Hitesh khud nahi. Main unke professional work ke baare mein batata hoon."
+    },
+    {
+      "id": "assistant_purpose",
+      "category": "Bot basics",
+      "english": [
+        "what can you do",
+        "how can you help",
+        "what can i ask",
+        "what do you know",
+        "how do i use this assistant",
+        "what is this chat for",
+        "what can i ask you about"
+      ],
+      "hinglish": [
+        "tum kya kar sakte ho",
+        "kya kya pooch sakte hain",
+        "kaise use kare",
+        "kya help karoge",
+        "kis baare mein poochu",
+        "tumhe kya pata hai"
+      ],
+      "answer_en": "You can ask about Hitesh's events, operations, RFID and cashless expertise, accreditation, career, and ways to contact him.",
+      "answer_hinglish": "Aap Hitesh ke events, RFID, cashless, accreditation, career aur contact ke baare mein pooch sakte hain."
+    },
+    {
+      "id": "bot_accuracy",
+      "category": "Bot basics",
+      "english": [
+        "are your answers accurate",
+        "can i trust your answers",
+        "are you reliable",
+        "is this information verified",
+        "where do your answers come from"
+      ],
+      "hinglish": [
+        "jawab sahi hain kya",
+        "kitna accurate hai",
+        "bharosa kar sakte hai",
+        "data kaha se aata hai",
+        "verified hai kya"
+      ],
+      "answer_en": "I use the professional information available to this portfolio assistant. For time-sensitive or important details, please confirm with Hitesh directly.",
+      "answer_hinglish": "Main portfolio mein available professional data se jawab deta hoon. Important ya time-sensitive details Hitesh se confirm karna best hai."
+    },
+    {
+      "id": "bot_limitations",
+      "category": "Bot basics",
+      "english": [
+        "do you know everything",
+        "can you answer anything",
+        "what can you not answer",
+        "what are your limitations",
+        "are you always right"
+      ],
+      "hinglish": [
+        "sab pata hai kya",
+        "har sawal ka jawab hai",
+        "kya nahi bata sakte",
+        "hamesha sahi batate ho"
+      ],
+      "answer_en": "I can answer supported portfolio questions, but I don't know everything. For details I can't verify, I'll suggest contacting Hitesh directly.",
+      "answer_hinglish": "Mujhe sab kuch nahi pata. Verified information na ho toh main Hitesh se direct contact suggest karta hoon."
+    },
+    {
+      "id": "real_time",
+      "category": "Bot basics",
+      "english": [
+        "are you live ai",
+        "do you update automatically",
+        "do you have live information",
+        "is this real time ai"
+      ],
+      "hinglish": [
+        "live ai ho kya",
+        "real time update hota hai",
+        "automatically update hote ho",
+        "live jawab dete ho kya"
+      ],
+      "answer_en": "I'm a portfolio assistant using available knowledge and synced event data, not a general-purpose live AI. Some updates may take time to appear.",
+      "answer_hinglish": "Main portfolio data aur synced events par based assistant hoon, general live AI nahi. Updates reflect hone mein time lag sakta hai."
+    },
+    {
+      "id": "language",
+      "category": "Bot basics",
+      "english": [
+        "do you speak hindi",
+        "do you speak english",
+        "can you speak hinglish",
+        "which languages do you support",
+        "can i talk in hindi",
+        "can i talk in hinglish"
+      ],
+      "hinglish": [
+        "hindi samajhte ho",
+        "hinglish samajhte ho",
+        "hindi mein baat karo",
+        "hinglish mein baat karo",
+        "english aati hai",
+        "kaunsi language bolte ho"
+      ],
+      "answer_en": "Yes! You can ask me questions in English or Hinglish.",
+      "answer_hinglish": "Haan ji! English ya Hinglish dono mein pooch sakte hain."
+    },
+    {
+      "id": "free",
+      "category": "Bot basics",
+      "english": [
+        "is this free",
+        "is this assistant free",
+        "do i have to pay",
+        "is there a charge to chat",
+        "free to use"
+      ],
+      "hinglish": [
+        "free hai kya",
+        "paise lagenge kya",
+        "chat karne ke charges",
+        "koi fees hai kya",
+        "muft hai kya"
+      ],
+      "answer_en": "You can use this website's portfolio chat without a payment step.",
+      "answer_hinglish": "Is website par portfolio chat use karne ke liye payment step nahi hai."
+    },
+    {
+      "id": "not_hitesh",
+      "category": "Bot basics",
+      "english": [
+        "is this hitesh",
+        "am i talking to hitesh",
+        "is hitesh replying",
+        "are you hitesh mishra",
+        "is this his personal whatsapp"
+      ],
+      "hinglish": [
+        "hitesh se baat ho rahi hai",
+        "tum hitesh ho",
+        "hitesh khud reply kar raha",
+        "ye hitesh hai kya"
+      ],
+      "answer_en": "You're chatting with Hitesh's automated assistant. To talk to Hitesh personally, please use the WhatsApp contact option.",
+      "answer_hinglish": "Aap Hitesh ke automated assistant se baat kar rahe hain. Direct baat ke liye WhatsApp option use kijiye."
+    },
+    {
+      "id": "who_made_you",
+      "category": "Bot basics",
+      "english": [
+        "who created you",
+        "who built this assistant",
+        "who made this chatbot",
+        "who programmed you",
+        "who developed you"
+      ],
+      "hinglish": [
+        "kisne banaya",
+        "tumhe kisne banaya",
+        "chatbot kisne banaya",
+        "developer kaun hai"
+      ],
+      "answer_en": "I'm part of Hitesh's portfolio website. For details about how it was built, please ask Hitesh directly.",
+      "answer_hinglish": "Main Hitesh ki portfolio website ka assistant hoon. Technical development details ke liye Hitesh se pooch sakte hain."
+    },
+    {
+      "id": "can_you_call",
+      "category": "Bot basics",
+      "english": [
+        "can you call me",
+        "can you phone me",
+        "can you make a call",
+        "call me please",
+        "can we talk on call"
+      ],
+      "hinglish": [
+        "call kar sakte ho",
+        "mujhe call karo",
+        "phone pe baat kare",
+        "call lagao",
+        "call kar do"
+      ],
+      "answer_en": "I can't place calls. You can contact Hitesh using the WhatsApp button on this website.",
+      "answer_hinglish": "Main call nahi laga sakta. Website ka WhatsApp button use karke Hitesh se contact kar sakte hain."
+    },
+    {
+      "id": "can_you_email",
+      "category": "Bot basics",
+      "english": [
+        "can you send email",
+        "can you email me",
+        "send me an email",
+        "can you send a message for me"
+      ],
+      "hinglish": [
+        "email bhej sakte ho",
+        "mail kar sakte ho",
+        "mujhe email bhejo",
+        "mail bhejo"
+      ],
+      "answer_en": "I can't send emails directly. You can reach Hitesh through the contact information on his portfolio.",
+      "answer_hinglish": "Main direct email nahi bhej sakta. Contact ke liye portfolio par Hitesh ki details available hain."
+    },
+    {
+      "id": "offline",
+      "category": "Bot basics",
+      "english": [
+        "do you work offline",
+        "can you chat without internet",
+        "does this work offline"
+      ],
+      "hinglish": [
+        "internet ke bina chalega",
+        "offline kaam karega",
+        "net ke bina chalega"
+      ],
+      "answer_en": "This assistant is on the website, so you generally need an internet connection to load it and its data.",
+      "answer_hinglish": "Ye website assistant hai, isliye generally internet connection chahiye."
+    },
+    {
+      "id": "privacy",
+      "category": "Bot basics",
+      "english": [
+        "is this chat private",
+        "do you save my messages",
+        "are chats recorded",
+        "is my chat secure",
+        "who can see my messages"
+      ],
+      "hinglish": [
+        "chat private hai kya",
+        "message save hota hai kya",
+        "meri chat record hoti hai",
+        "privacy kya hai"
+      ],
+      "answer_en": "I can't verify the website's complete data-handling setup. Please avoid sharing passwords or sensitive information here, and contact Hitesh for its privacy details.",
+      "answer_hinglish": "Main website ki puri privacy setup verify nahi kar sakta. Yahan password ya sensitive details share na karein."
+    },
+    {
+      "id": "stop",
+      "category": "Bot basics",
+      "english": [
+        "stop",
+        "stop replying",
+        "please stop",
+        "end chat",
+        "close chat",
+        "exit chat",
+        "quit"
+      ],
+      "hinglish": [
+        "bas karo",
+        "band karo",
+        "chat band karo",
+        "ab reply mat karo",
+        "stop bhai",
+        "chat khatam"
+      ],
+      "answer_en": "Understood. You can close the chat window anytime.",
+      "answer_hinglish": "Samajh gaya. Aap kabhi bhi chat window close kar sakte hain."
+    },
+    {
+      "id": "restart",
+      "category": "Bot basics",
+      "english": [
+        "start over",
+        "restart chat",
+        "new conversation",
+        "reset conversation",
+        "start fresh"
+      ],
+      "hinglish": [
+        "phir se shuru kare",
+        "nayi chat",
+        "chat reset karo",
+        "dobara start karo"
+      ],
+      "answer_en": "Sure! You can begin with a new question. This message won't erase earlier messages.",
+      "answer_hinglish": "Bilkul! Naya sawaal poochiye. Is message se purani chat delete nahi hogi."
+    },
+    {
+      "id": "help",
+      "category": "Bot basics",
+      "english": [
+        "help",
+        "need help",
+        "help me",
+        "assist me",
+        "can you help",
+        "i need assistance",
+        "need some information"
+      ],
+      "hinglish": [
+        "help karo",
+        "madad karo",
+        "mujhe help chahiye",
+        "madad chahiye",
+        "help chahiye bhai",
+        "zara help karo"
+      ],
+      "answer_en": "Of course! Ask about Hitesh's work, event history, skills, or how to contact him.",
+      "answer_hinglish": "Zaroor! Hitesh ke work, events, skills ya contact ke baare mein pooch sakte hain."
+    },
+    {
+      "id": "question",
+      "category": "Bot basics",
+      "english": [
+        "i have a question",
+        "can i ask something",
+        "may i ask a question",
+        "one question please",
+        "i want to ask you something"
+      ],
+      "hinglish": [
+        "ek sawaal hai",
+        "kuch poochna hai",
+        "ek baat poochu",
+        "question hai bhai",
+        "sawal poochu",
+        "ek doubt hai"
+      ],
+      "answer_en": "Absolutely! Go ahead and ask.",
+      "answer_hinglish": "Bilkul! Poochiye, kya sawaal hai?"
+    },
+    {
+      "id": "two_questions",
+      "category": "Bot basics",
+      "english": [
+        "i have two questions",
+        "i have many questions",
+        "can i ask multiple questions",
+        "a few questions"
+      ],
+      "hinglish": [
+        "do sawaal hain",
+        "bahut sawaal hain",
+        "kaafi questions hai",
+        "multiple questions pooch sakta hu"
+      ],
+      "answer_en": "Of course. You can ask your questions one at a time for clearer answers.",
+      "answer_hinglish": "Bilkul. Clear answers ke liye ek-ek karke poochiye."
+    },
+    {
+      "id": "can_you_explain",
+      "category": "Bot basics",
+      "english": [
+        "can you explain",
+        "please explain",
+        "explain it",
+        "explain this to me"
+      ],
+      "hinglish": [
+        "samjhao",
+        "samjha do",
+        "explain karo",
+        "thoda samjhao",
+        "samjha na bhai"
+      ],
+      "answer_en": "Sure! Tell me which event or topic you want explained.",
+      "answer_hinglish": "Bilkul! Kaunsa event ya topic samjhana hai?"
+    },
+    {
+      "id": "can_you_guide",
+      "category": "Bot basics",
+      "english": [
+        "can you guide me",
+        "please guide me",
+        "give me guidance",
+        "guide me please"
+      ],
+      "hinglish": [
+        "guide karo",
+        "guidance chahiye",
+        "raasta batao",
+        "guide kar do"
+      ],
+      "answer_en": "I can guide you through Hitesh's professional portfolio. Tell me what you're trying to find.",
+      "answer_hinglish": "Main Hitesh ki professional profile samajhne mein guide kar sakta hoon. Bataiye kya dhoondh rahe hain?"
+    },
+    {
+      "id": "languages_switch",
+      "category": "Bot basics",
+      "english": [
+        "reply in english",
+        "english please",
+        "answer in english",
+        "respond in english"
+      ],
+      "hinglish": [
+        "hinglish mein reply karo",
+        "hinglish me batao",
+        "hinglish please",
+        "roman hindi mein bolo",
+        "roman hindi me batao"
+      ],
+      "answer_en": "Sure. For the most natural response, ask your next question in your preferred language.",
+      "answer_hinglish": "Bilkul. Aap agla question jis language mein poochhenge, main uske hisaab se reply dunga."
+    },
+    {
+      "id": "compliment_bot",
+      "category": "Bot basics",
+      "english": [
+        "you are smart",
+        "you are helpful",
+        "you are great",
+        "good bot",
+        "nice assistant",
+        "smart assistant",
+        "you are amazing"
+      ],
+      "hinglish": [
+        "tu smart hai",
+        "badhiya bot",
+        "mast assistant",
+        "kamaal ka bot",
+        "sahi assistant hai"
+      ],
+      "answer_en": "Thank you! I'm glad I could help you explore Hitesh's portfolio.",
+      "answer_hinglish": "Shukriya! Achha laga ki main Hitesh ke portfolio mein help kar saka."
+    },
+    {
+      "id": "criticize_bot",
+      "category": "Bot basics",
+      "english": [
+        "you are useless",
+        "stupid bot",
+        "bad bot",
+        "you are dumb",
+        "terrible assistant"
+      ],
+      "hinglish": [
+        "bekaar bot",
+        "pagal bot",
+        "bakwas assistant",
+        "kuch nahi aata",
+        "bekaar hai tu"
+      ],
+      "answer_en": "Sorry I haven't been helpful. If you ask a specific portfolio question, I'll try to find a better match.",
+      "answer_hinglish": "Sorry ji, help nahi kar paaya. Specific portfolio question poochiye, main better answer dhoondhne ki koshish karunga."
+    },
+    {
+      "id": "joke",
+      "category": "Bot basics",
+      "english": [
+        "tell me a joke",
+        "say something funny",
+        "make me laugh",
+        "got any jokes"
+      ],
+      "hinglish": [
+        "joke sunao",
+        "koi joke batao",
+        "hasao",
+        "kuch funny batao",
+        "mazaak sunao"
+      ],
+      "answer_en": "Event joke: Why did the badge arrive early? It wanted to check in before everyone else! 😄",
+      "answer_hinglish": "Event joke: Badge itna jaldi kyun aaya? Kyunki use sabse pehle check-in karna tha! 😄"
+    },
+    {
+      "id": "fun_fact",
+      "category": "Bot basics",
+      "english": [
+        "tell me a fun fact",
+        "share a fun fact",
+        "something interesting please",
+        "surprise me with a fact"
+      ],
+      "hinglish": [
+        "fun fact batao",
+        "kuch interesting batao",
+        "interesting fact sunao",
+        "koi fun fact"
+      ],
+      "answer_en": "A fun event-operations fact: good attendee check-in depends on both technology and a well-planned on-ground workflow.",
+      "answer_hinglish": "Fun fact: Smooth event check-in ke liye technology ke saath on-ground planning bhi bahut important hoti hai."
+    },
+    {
+      "id": "motivate",
+      "category": "Bot basics",
+      "english": [
+        "motivate me",
+        "inspire me",
+        "give me motivation",
+        "say something motivating"
+      ],
+      "hinglish": [
+        "motivate karo",
+        "motivation do",
+        "inspire karo",
+        "kuch motivational bolo"
+      ],
+      "answer_en": "Small improvements, repeated consistently, can make a big impact—especially in event operations.",
+      "answer_hinglish": "Chhote improvements ko consistently follow karna bhi bada impact create kar sakta hai."
+    },
+    {
+      "id": "emoji",
+      "category": "Bot basics",
+      "english": [
+        "send an emoji",
+        "give me an emoji",
+        "emoji please",
+        "smile please"
+      ],
+      "hinglish": [
+        "emoji bhejo",
+        "smile karo",
+        "smiley bhejo",
+        "ek emoji"
+      ],
+      "answer_en": "😊",
+      "answer_hinglish": "😊"
+    },
+    {
+      "id": "thank_for_time",
+      "category": "Bot basics",
+      "english": [
+        "thanks for your time",
+        "thank you for your time",
+        "thanks for chatting"
+      ],
+      "hinglish": [
+        "time dene ke liye thanks",
+        "time ke liye shukriya",
+        "baat karke achha laga"
+      ],
+      "answer_en": "My pleasure! Thanks for visiting the portfolio.",
+      "answer_hinglish": "Khushi hui! Portfolio visit karne ke liye shukriya."
+    },
+    {
+      "id": "hire_intent",
+      "category": "Hiring conversation",
+      "english": [
+        "we want to hire hitesh",
+        "i want to hire hitesh",
+        "can we hire him",
+        "interested in hiring hitesh",
+        "we have an opportunity for hitesh",
+        "we want to offer him a role"
+      ],
+      "hinglish": [
+        "hitesh ko hire karna hai",
+        "hire karna chahte hain",
+        "job offer hai hitesh ke liye",
+        "hitesh ko role offer karna hai",
+        "hitesh se hiring ki baat karni hai"
+      ],
+      "answer_en": "Thanks for your interest in working with Hitesh! Please connect with him directly on WhatsApp: https://wa.me/917066712160",
+      "answer_hinglish": "Interest ke liye shukriya! Hiring discuss karne ke liye Hitesh se WhatsApp par connect karein: https://wa.me/917066712160"
+    },
+    {
+      "id": "join_availability",
+      "category": "Hiring conversation",
+      "english": [
+        "when can hitesh join",
+        "when is he available to join",
+        "when is hitesh available to join us",
+        "what is his joining date",
+        "when can he start working",
+        "is he available to join immediately"
+      ],
+      "hinglish": [
+        "hitesh kab join kar sakta hai",
+        "joining kab hai",
+        "kab available hai join karne ke liye",
+        "hitesh kab se join karega",
+        "immediate joining kar sakta hai kya"
+      ],
+      "answer_en": "For Hitesh's current joining availability, please confirm directly with him on WhatsApp: https://wa.me/917066712160",
+      "answer_hinglish": "Hitesh ki latest joining availability confirm karne ke liye WhatsApp par direct connect karein: https://wa.me/917066712160"
+    },
+    {
+      "id": "meeting",
+      "category": "Hiring conversation",
+      "english": [
+        "can i schedule a meeting",
+        "can we meet hitesh",
+        "can i arrange an interview",
+        "can we set up a call",
+        "i want to talk to hitesh"
+      ],
+      "hinglish": [
+        "meeting rakh sakte hain",
+        "interview schedule karna hai",
+        "hitesh se milna hai",
+        "hitesh se baat karni hai",
+        "call schedule karni hai"
+      ],
+      "answer_en": "To arrange an interview, meeting, or call with Hitesh, please reach him on WhatsApp: https://wa.me/917066712160",
+      "answer_hinglish": "Meeting, interview ya call arrange karne ke liye Hitesh ko WhatsApp par contact karein: https://wa.me/917066712160"
+    },
+    {
+      "id": "freelance_intent",
+      "category": "Hiring conversation",
+      "english": [
+        "we have a freelance project",
+        "want to discuss a freelance project",
+        "can he freelance for us",
+        "we need freelance event support"
+      ],
+      "hinglish": [
+        "freelance project hai",
+        "freelance ka kaam dena hai",
+        "freelancing ke liye baat karni hai",
+        "project discuss karna hai"
+      ],
+      "answer_en": "For freelance project availability and scope, please contact Hitesh directly on WhatsApp: https://wa.me/917066712160",
+      "answer_hinglish": "Freelance project aur availability discuss karne ke liye WhatsApp par Hitesh se baat karein: https://wa.me/917066712160"
+    },
+    {
+      "id": "send_cv",
+      "category": "Hiring conversation",
+      "english": [
+        "can you send me his cv",
+        "i need his resume",
+        "please share his cv",
+        "share his resume",
+        "where can i get his cv"
+      ],
+      "hinglish": [
+        "cv bhejo",
+        "resume bhejo",
+        "hitesh ka cv chahiye",
+        "resume share karo",
+        "cv kaha milega"
+      ],
+      "answer_en": "For the latest CV or resume, please request it directly from Hitesh on WhatsApp: https://wa.me/917066712160",
+      "answer_hinglish": "Latest CV ya resume ke liye Hitesh ko WhatsApp par message karein: https://wa.me/917066712160"
+    },
+    {
+      "id": "salary",
+      "category": "Hiring conversation",
+      "english": [
+        "what salary does he expect",
+        "what is his expected salary",
+        "what is his rate",
+        "how much does he charge",
+        "what is his freelance rate"
+      ],
+      "hinglish": [
+        "salary expectation kya hai",
+        "kitna charge karte hain",
+        "freelance rate kitna hai",
+        "expected ctc kya hai",
+        "payment kitna hai"
+      ],
+      "answer_en": "For current compensation expectations or project rates, please discuss directly with Hitesh on WhatsApp: https://wa.me/917066712160",
+      "answer_hinglish": "Current salary expectation ya project rate ke liye Hitesh se WhatsApp par direct discuss karein: https://wa.me/917066712160"
+    },
+    {
+      "id": "collaboration",
+      "category": "Hiring conversation",
+      "english": [
+        "i want to collaborate",
+        "can we collaborate",
+        "lets work together",
+        "business collaboration",
+        "partnership opportunity"
+      ],
+      "hinglish": [
+        "collaboration karna hai",
+        "saath kaam karte hain",
+        "partnership karni hai",
+        "milke kaam kare"
+      ],
+      "answer_en": "Thanks for your interest! Please connect with Hitesh on WhatsApp to discuss a collaboration: https://wa.me/917066712160",
+      "answer_hinglish": "Collaboration ke liye shukriya! Details discuss karne ko Hitesh se WhatsApp par connect karein: https://wa.me/917066712160"
+    },
+    {
+      "id": "urgent_contact",
+      "category": "Hiring conversation",
+      "english": [
+        "it is urgent",
+        "urgent please",
+        "need an urgent reply",
+        "this is urgent",
+        "please respond urgently"
+      ],
+      "hinglish": [
+        "urgent hai",
+        "jaldi reply chahiye",
+        "bahut urgent hai",
+        "urgent baat hai",
+        "jaldi baat karni hai"
+      ],
+      "answer_en": "For urgent professional enquiries, please contact Hitesh directly on WhatsApp: https://wa.me/917066712160. I can't guarantee a response time.",
+      "answer_hinglish": "Urgent professional enquiry ke liye Hitesh ko WhatsApp par contact karein: https://wa.me/917066712160. Reply time guarantee nahi kar sakta."
+    },
+    {
+      "id": "show_options",
+      "category": "Casual follow-ups",
+      "english": [
+        "show options",
+        "what should i ask",
+        "give me suggestions",
+        "suggest some questions",
+        "what topics are available"
+      ],
+      "hinglish": [
+        "options dikhao",
+        "kya sawaal poochu",
+        "question suggest karo",
+        "kuch topics batao",
+        "kya pooch sakta hoon"
+      ],
+      "answer_en": "Try asking about Hitesh's major events, his role at Liwa, RFID and cashless systems, accreditation, or international experience.",
+      "answer_hinglish": "Hitesh ke major events, Liwa role, RFID, accreditation ya international experience ke baare mein poochiye."
+    },
+    {
+      "id": "choose_topic",
+      "category": "Casual follow-ups",
+      "english": [
+        "choose a topic for me",
+        "suggest a topic",
+        "what is a good starting point",
+        "where should i begin"
+      ],
+      "hinglish": [
+        "kaha se start karu",
+        "kuch topic choose karo",
+        "shuru kaha se kare",
+        "pehle kya poochu"
+      ],
+      "answer_en": "A good place to start is: 'Which major events has Hitesh worked on?'",
+      "answer_hinglish": "Shuruat ke liye poochiye: 'Hitesh ne kaunse major events kiye hain?'"
+    },
+    {
+      "id": "next",
+      "category": "Casual follow-ups",
+      "english": [
+        "next",
+        "go on",
+        "continue",
+        "keep going",
+        "what next",
+        "next please"
+      ],
+      "hinglish": [
+        "aage",
+        "aage batao",
+        "aur",
+        "chalo aage",
+        "next bhai",
+        "aage chalo"
+      ],
+      "answer_en": "Sure! Ask your next question whenever you're ready.",
+      "answer_hinglish": "Bilkul! Agla question poochiye."
+    },
+    {
+      "id": "previous",
+      "category": "Casual follow-ups",
+      "english": [
+        "go back",
+        "previous",
+        "back please",
+        "previous question",
+        "go to previous"
+      ],
+      "hinglish": [
+        "peeche chalo",
+        "pichla question",
+        "wapas jao",
+        "pehle wala"
+      ],
+      "answer_en": "You can scroll up to see earlier answers, then ask a follow-up about the topic.",
+      "answer_hinglish": "Pichhle answers dekhne ke liye upar scroll kijiye, phir topic par follow-up pooch sakte hain."
+    },
+    {
+      "id": "what_else",
+      "category": "Casual follow-ups",
+      "english": [
+        "what else",
+        "anything else",
+        "what more",
+        "is there more",
+        "any other details"
+      ],
+      "hinglish": [
+        "aur kya",
+        "aur kuch",
+        "kuch aur batao",
+        "aur kya hai",
+        "bas itna hi kya"
+      ],
+      "answer_en": "There's more to explore! Ask about a particular event, year, location, technology, or role.",
+      "answer_hinglish": "Aur bhi topics hain! Kisi event, year, location, technology ya role ke baare mein poochiye."
+    },
+    {
+      "id": "specifics",
+      "category": "Casual follow-ups",
+      "english": [
+        "be specific",
+        "be more specific",
+        "give specific information",
+        "specific details please"
+      ],
+      "hinglish": [
+        "specific batao",
+        "exact detail do",
+        "seedha jawab do",
+        "point pe aao"
+      ],
+      "answer_en": "I can be more specific if you mention the event, year, role, or skill you're asking about.",
+      "answer_hinglish": "Event, year, role ya skill specify karenge toh main zyada accurate jawab de sakta hoon."
+    },
+    {
+      "id": "simple",
+      "category": "Casual follow-ups",
+      "english": [
+        "explain simply",
+        "simple words please",
+        "make it easy",
+        "in simple terms",
+        "simplify it"
+      ],
+      "hinglish": [
+        "simple mein batao",
+        "aasaan shabdon mein",
+        "easy language mein",
+        "seedhe shabdo mein",
+        "simplify karo"
+      ],
+      "answer_en": "Sure. Ask the specific topic again, and I'll try to explain it in simple terms.",
+      "answer_hinglish": "Bilkul. Topic dobara poochiye, main aasaan shabdon mein samjhaunga."
+    },
+    {
+      "id": "detailed",
+      "category": "Casual follow-ups",
+      "english": [
+        "explain in detail",
+        "detailed answer please",
+        "give full details",
+        "long answer please"
+      ],
+      "hinglish": [
+        "detail se batao",
+        "poori detail chahiye",
+        "full detail do",
+        "lamba answer do"
+      ],
+      "answer_en": "I can share the available details. Please specify which event or topic you'd like to explore.",
+      "answer_hinglish": "Available details bata sakta hoon. Kaunsa event ya topic hai, please specify karein."
+    },
+    {
+      "id": "example",
+      "category": "Casual follow-ups",
+      "english": [
+        "give an example",
+        "any example",
+        "can you give an example",
+        "show me an example"
+      ],
+      "hinglish": [
+        "example do",
+        "udharan do",
+        "koi example batao",
+        "ek example batao"
+      ],
+      "answer_en": "For example, you can ask: 'What was Hitesh's role at Liwa International Festival?'",
+      "answer_hinglish": "Example: 'Liwa International Festival mein Hitesh ka kya role tha?'"
+    },
+    {
+      "id": "list_topics",
+      "category": "Casual follow-ups",
+      "english": [
+        "list topics",
+        "what categories do you have",
+        "show all categories",
+        "list what you know"
+      ],
+      "hinglish": [
+        "categories batao",
+        "saare topics batao",
+        "list dikhao",
+        "kya kya categories hain"
+      ],
+      "answer_en": "Main topics include events, career, RFID and cashless, accreditation, registration, international assignments, projects, and contact.",
+      "answer_hinglish": "Main topics hain: events, career, RFID, cashless, accreditation, registration, international work, projects aur contact."
+    },
+    {
+      "id": "cant_find",
+      "category": "Casual follow-ups",
+      "english": [
+        "i cannot find it",
+        "cant find the answer",
+        "where is the answer",
+        "not seeing the answer"
+      ],
+      "hinglish": [
+        "answer nahi mil raha",
+        "jawab nahi dikha",
+        "kahan hai answer",
+        "nahi mil raha"
+      ],
+      "answer_en": "Sorry about that. Try asking with the event name or a specific keyword; if it remains unanswered, you can contact Hitesh.",
+      "answer_hinglish": "Sorry ji. Event name ya specific keyword se poochiye; phir bhi jawab na mile toh Hitesh se contact karein."
+    },
+    {
+      "id": "try_again",
+      "category": "Casual follow-ups",
+      "english": [
+        "try again",
+        "can you try again",
+        "please retry",
+        "give it another try"
+      ],
+      "hinglish": [
+        "dobara try karo",
+        "fir try karo",
+        "phir se try karo",
+        "ek baar aur koshish karo"
+      ],
+      "answer_en": "Of course. Please send your question again, ideally with a little more detail.",
+      "answer_hinglish": "Bilkul. Question ek baar phir bhejiye, ho sake toh thoda detail ke saath."
+    },
+    {
+      "id": "good_response",
+      "category": "Casual follow-ups",
+      "english": [
+        "that helped",
+        "very helpful",
+        "this helps",
+        "helpful answer",
+        "great explanation",
+        "well explained"
+      ],
+      "hinglish": [
+        "help ho gayi",
+        "achha samjhaya",
+        "badiya samjhaya",
+        "kaam aa gaya",
+        "ab samajh aaya"
+      ],
+      "answer_en": "I'm glad that helped!",
+      "answer_hinglish": "Khushi hui ki help ho gayi!"
+    },
+    {
+      "id": "not_answered",
+      "category": "Casual follow-ups",
+      "english": [
+        "you did not answer",
+        "that does not answer my question",
+        "my question is unanswered",
+        "answer properly"
+      ],
+      "hinglish": [
+        "jawab nahi diya",
+        "sawal ka jawab nahi mila",
+        "sahi se jawab do",
+        "mera question alag tha"
+      ],
+      "answer_en": "Sorry—I may have misunderstood. Please rephrase your question or contact Hitesh for a verified answer.",
+      "answer_hinglish": "Sorry ji, shayad question galat samjha. Dobara poochiye ya verified answer ke liye Hitesh se contact karein."
+    },
+    {
+      "id": "link_issue",
+      "category": "Casual follow-ups",
+      "english": [
+        "link not working",
+        "broken link",
+        "whatsapp link not working",
+        "button not working",
+        "page is not opening"
+      ],
+      "hinglish": [
+        "link nahi chal raha",
+        "button kaam nahi kar raha",
+        "whatsapp nahi khul raha",
+        "page open nahi ho raha"
+      ],
+      "answer_en": "Sorry about that. If a website or WhatsApp link isn't working, please try reopening the page or using the contact information shown on the portfolio.",
+      "answer_hinglish": "Sorry ji. Link na chale toh page refresh kijiye ya portfolio par diye contact details use kijiye."
+    },
+    {
+      "id": "site_feedback",
+      "category": "Casual follow-ups",
+      "english": [
+        "i like this website",
+        "nice website",
+        "beautiful portfolio",
+        "great portfolio",
+        "love the website",
+        "good design"
+      ],
+      "hinglish": [
+        "website mast hai",
+        "website badhiya hai",
+        "portfolio achha hai",
+        "design mast hai",
+        "website pasand aayi"
+      ],
+      "answer_en": "Thank you for the feedback! I'm glad you enjoyed the portfolio.",
+      "answer_hinglish": "Feedback ke liye shukriya! Achha laga ki portfolio aapko pasand aaya."
+    },
+    {
+      "id": "suggestion",
+      "category": "Casual follow-ups",
+      "english": [
+        "i have a suggestion",
+        "can i suggest something",
+        "feature suggestion",
+        "i have feedback"
+      ],
+      "hinglish": [
+        "suggestion hai",
+        "ek idea hai",
+        "feedback dena hai",
+        "ek feature suggest karna hai"
+      ],
+      "answer_en": "Thanks for wanting to share feedback! For a suggestion meant for Hitesh, please contact him on WhatsApp: https://wa.me/917066712160",
+      "answer_hinglish": "Suggestion ke liye shukriya! Hitesh ko feedback dene ke liye WhatsApp par connect karein: https://wa.me/917066712160"
+    },
+    {
+      "id": "typo",
+      "category": "Casual follow-ups",
+      "english": [
+        "sorry typo",
+        "made a typo",
+        "spelling mistake",
+        "i typed it wrong",
+        "wrong spelling"
+      ],
+      "hinglish": [
+        "typing mistake ho gayi",
+        "galat type ho gaya",
+        "spelling galat thi",
+        "typo ho gaya"
+      ],
+      "answer_en": "No problem! Please send the corrected question.",
+      "answer_hinglish": "Koi baat nahi! Correct question bhej dijiye."
+    },
+    {
+      "id": "testing",
+      "category": "Casual follow-ups",
+      "english": [
+        "test",
+        "testing",
+        "test message",
+        "hello test",
+        "check check",
+        "mic check"
+      ],
+      "hinglish": [
+        "test kar raha hoon",
+        "testing bhai",
+        "check kar raha hu",
+        "bas test hai"
+      ],
+      "answer_en": "Test received! The assistant is responding.",
+      "answer_hinglish": "Test message mil gaya! Assistant reply kar raha hai."
+    },
+    {
+      "id": "empty_like",
+      "category": "Casual follow-ups",
+      "english": [],
+      "hinglish": [
+        "kya??",
+        "hmm??"
+      ],
+      "answer_en": "I'm here! You can ask a question about Hitesh's portfolio.",
+      "answer_hinglish": "Main yahin hoon! Hitesh ke portfolio ke baare mein poochiye."
+    },
+    {
+      "id": "hmm",
+      "category": "Casual follow-ups",
+      "english": [
+        "hmmm",
+        "hmmmm",
+        "uh huh",
+        "aha",
+        "oh i see"
+      ],
+      "hinglish": [
+        "hmm bhai",
+        "hmmm bhai",
+        "achha",
+        "acha",
+        "accha",
+        "ohh",
+        "oh ho"
+      ],
+      "answer_en": "Let me know if you'd like more information.",
+      "answer_hinglish": "Aur information chahiye ho toh bataiye."
+    },
+    {
+      "id": "good_luck",
+      "category": "Casual follow-ups",
+      "english": [
+        "wish you luck",
+        "good luck with everything",
+        "best of luck for future",
+        "wishing you success"
+      ],
+      "hinglish": [
+        "aage ke liye all the best",
+        "future ke liye good luck",
+        "kaamyabi mile",
+        "tarakki karo"
+      ],
+      "answer_en": "Thanks for the kind wishes!",
+      "answer_hinglish": "Bahut shukriya ji! Aapki wishes ke liye thanks."
+    }
+  ]
+}
